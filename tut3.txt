@@ -1,0 +1,7 @@
+eclipse --> help marketplace --> search --> spring ide aka spring tool suite  --> install
+eclipse --> package explorer kısmında sağ tık --> new --> spring starter project
+name:: Countries --> next --> jpa,h2,web,thymeleaf(templete engine), devtools seçili --> finish
+
+
+kod yazerken lazım olcak yeni dependency eklemek için
+targett --> pom.xml --> sekmeler var altta ordan depencies seç burdan eklenir yeni biz jquery ve bootstrap webjars ekledik
